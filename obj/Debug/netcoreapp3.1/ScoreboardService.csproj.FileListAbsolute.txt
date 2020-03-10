@@ -1,0 +1,11 @@
+C:\Users\Auzer\source\repos\scoreboard_service\scoreboard_service\bin\Debug\netcoreapp3.1\ScoreboardService.exe
+C:\Users\Auzer\source\repos\scoreboard_service\scoreboard_service\bin\Debug\netcoreapp3.1\ScoreboardService.deps.json
+C:\Users\Auzer\source\repos\scoreboard_service\scoreboard_service\bin\Debug\netcoreapp3.1\ScoreboardService.runtimeconfig.json
+C:\Users\Auzer\source\repos\scoreboard_service\scoreboard_service\bin\Debug\netcoreapp3.1\ScoreboardService.runtimeconfig.dev.json
+C:\Users\Auzer\source\repos\scoreboard_service\scoreboard_service\bin\Debug\netcoreapp3.1\ScoreboardService.dll
+C:\Users\Auzer\source\repos\scoreboard_service\scoreboard_service\bin\Debug\netcoreapp3.1\ScoreboardService.pdb
+C:\Users\Auzer\source\repos\scoreboard_service\scoreboard_service\obj\Debug\netcoreapp3.1\ScoreboardService.csprojAssemblyReference.cache
+C:\Users\Auzer\source\repos\scoreboard_service\scoreboard_service\obj\Debug\netcoreapp3.1\ScoreboardService.AssemblyInfoInputs.cache
+C:\Users\Auzer\source\repos\scoreboard_service\scoreboard_service\obj\Debug\netcoreapp3.1\ScoreboardService.AssemblyInfo.cs
+C:\Users\Auzer\source\repos\scoreboard_service\scoreboard_service\obj\Debug\netcoreapp3.1\ScoreboardService.dll
+C:\Users\Auzer\source\repos\scoreboard_service\scoreboard_service\obj\Debug\netcoreapp3.1\ScoreboardService.pdb
