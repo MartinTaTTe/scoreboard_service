@@ -27,7 +27,7 @@ namespace scoreboard_service
 
         public void Print()
         {
-            Console.WriteLine("Highscores:");
+            Console.WriteLine("High scores:");
             foreach (Pair pair in scores)
             {
                 Console.WriteLine($"{scores.IndexOf(pair) + 1}: {pair.name} {pair.score}");

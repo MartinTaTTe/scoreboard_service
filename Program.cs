@@ -9,6 +9,8 @@ namespace scoreboard_service
             Scoreboard scoreboard = new Scoreboard();
             bool running = true;
 
+            Console.WriteLine("Welcome to the Scoreboard program. Following commands are available:\nadd $name $score\nprint\nquit");
+
             while (running)
             {
                 string input = Console.ReadLine();
@@ -30,6 +32,7 @@ namespace scoreboard_service
                         break;
                     case "quit":
                         running = false;
+                        Console.WriteLine("Quitting ...");
                         break;
                     default:
                         Console.WriteLine("Invalid input, try {add $name $score}, {print} or {quit}.");
